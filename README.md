@@ -22,3 +22,18 @@ Este proyecto contiene la solución a 30 desafíos de programación en Kotlin en
 13. **Reparto de Pedidos por Camión:** División de listas en lotes (`chunked`).
 14. **Identificador de Ticket Único:** Búsqueda del primer elemento no repetido.
 15. **Calculadora de IVA Selectiva:** Aplicación condicional de impuestos.
+16. **Mantenimiento de Sensores:** Limpieza de datos con `removeAll`.
+17. **Mapa de Almacén (Matriz):** Operaciones sobre diagonales de matrices.
+18. **Fusión de Recetas:** Combinación de mapas sumando valores.
+19. **Ranking de Apps por Calificación:** Ordenamiento manual (Burbuja).
+20. **Unión de Agendas Ordenadas:** Fusión de listas manteniendo el orden original.
+21. **Días de Mantenimiento (Primos):** Algoritmo de Criba de Eratóstenes.
+22. **Pila de Platos Sucios:** Implementación de estructura LIFO (Pila).
+23. **Seguimiento de Dieta:** Análisis de variaciones sobre promedios históricos.
+24. **Organización de Contenedores:** Validación de balanceo de paréntesis.
+25. **Rendimiento de Maratón:** Cálculo estadístico sin valores atípicos.
+26. **Compresión de Logs de Servidor:** Algoritmo Run-Length Encoding (RLE).
+27. **Premios a Vendedores:** Filtrado basado en métricas de equipo.
+28. **Calculadora de Tarifas de Parking:** Acceso rápido a datos tarifarios.
+29. **Parejas de Viaje por Peso:** Solución al problema de la suma de dos números.
+30. **Espejo de Layout de Tienda:** Transposición de matrices.
