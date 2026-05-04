@@ -37,3 +37,11 @@ Este proyecto contiene la solución a 30 desafíos de programación en Kotlin en
 28. **Calculadora de Tarifas de Parking:** Acceso rápido a datos tarifarios.
 29. **Parejas de Viaje por Peso:** Solución al problema de la suma de dos números.
 30. **Espejo de Layout de Tienda:** Transposición de matrices.
+
+## Sustentación en Video
+
+El video de explicación técnica puede encontrarse en el siguiente enlace:
+- **Loom:** https://www.loom.com/share/e9f12b81bb904b79ba8038e2282e248c
+
+---
+*Este proyecto fue desarrollado siguiendo las instrucciones del laboratorio de estructuras de datos.*
